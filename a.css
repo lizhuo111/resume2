@@ -1,0 +1,27 @@
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+
+.usercard .topNavBar .background{float: left;
+
+}
+.usercard {height: 700px;
+    max-width: 1000px;
+  border: 1px solid red;
+  margin-left: auto;
+margin-right: auto;
+text-align: center;
+background-color: white;}
+#kk{
+    display: inline-block;
+    font-size: 100px;
+}
+.topNavBar{margin-top:100px;
+}
+head {font-size: xx-large;}
+
+body{background-color: black;
+}
+.usercard .text >dl >dt{font-weight: bold;
+padding-top: 20px;}
+#welcome{font-size: 90px;
+color: black;
+text-align: center;}
